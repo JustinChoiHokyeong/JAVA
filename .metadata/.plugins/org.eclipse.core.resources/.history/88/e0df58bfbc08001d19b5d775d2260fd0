@@ -1,0 +1,12 @@
+package test.main;
+
+public class MainClass02 {
+	public static void main(String[] args) {
+		System.out.println("Main method is started.");
+		
+		double kor=95;
+		double eng=100;
+		double avg=(kor+eng)/2;
+		System.out.println("average : "+avg);
+	}
+}

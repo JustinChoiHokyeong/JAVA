@@ -1,0 +1,12 @@
+package test.main;
+
+public class Happy01 {
+	public static void main(String[] args) {
+		System.out.println("Index is started.");
+		
+		
+		
+		System.out.println("Index is finished.");
+	}
+
+}
